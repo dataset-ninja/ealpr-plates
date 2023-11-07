@@ -1,4 +1,4 @@
-**Egyptian Automatic License Plate Recognition: Plates** is a dataset for an object detection task. It is used in the surveillance industry. 
+**EALPR: Egyptian Automatic License Plate Recognition (Plates)** is a dataset for an object detection task. It is used in the surveillance industry. 
 
 The dataset consists of 2068 images with 10797 labeled objects belonging to 27 different classes including *١*, *م*, *أ*, and other: *٦*, *س*, *ر*, *٥*, *د*, *٤*, *ع*, *٧*, *ھ*, *٢*, *ن*, *و*, *٣*, *ل*, *٩*, *ج*, *ب*, *ى*, *٨*, *ق*, *ط*, *ف*, *ص*, and *٠*.
 
