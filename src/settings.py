@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "EALPR: Plates"
-PROJECT_NAME_FULL: str = "Egyptian Automatic License Plate Recognition: Plates"
+PROJECT_NAME_FULL: str = "EALPR: Egyptian Automatic License Plate Recognition (Plates)"
 HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
